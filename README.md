@@ -1,2 +1,5 @@
 # iris-releases
-Public Iris installers for schools (production releases only)
+
+Retired: Iris is now in the Microsoft Store (9P5FQXQH4HF3).
+
+https://apps.microsoft.com/detail/9P5FQXQH4HF3
